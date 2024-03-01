@@ -1,4 +1,4 @@
-**How to load local files to AWS Redshift using Python and Unleash Insights with Power BI**
+# **How to load local files to AWS Redshift using Python and Unleash Insights with Power BI**
 ![Abhinav_AWS_de_project_1](https://github.com/abhinavkumariem/Python-AWS-Redshift/assets/95907012/a060c46e-36cc-48d8-a565-f5394392e7a6)
 
 In the era of data-driven decision-making, businesses are increasingly turning to robust solutions for efficient data processing, analysis, and visualization. This article explores a comprehensive project that harnesses the power of AWS Redshift, Python, and Power BI to seamlessly handle data from source to insights.
